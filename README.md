@@ -18,6 +18,9 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Catzy44&theme=dark&hide_border=false)<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=Catzy44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
