@@ -20,7 +20,6 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Catzy44&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Catzy44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
