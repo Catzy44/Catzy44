@@ -22,4 +22,4 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
-![](https://nirzak-streak-stats.vercel.app/?user=Catzy44&theme=tokyonight-duo&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Catzy44&theme=tokyonight-duo&hide_border=true)
