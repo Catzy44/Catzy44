@@ -24,5 +24,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Catzy44&theme=dark&hide_border=false)<br/>
 ---
 ![](https://github-profile-trophy.vercel.app/?username=Catzy44&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=Catzy44&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
