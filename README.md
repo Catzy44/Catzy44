@@ -20,6 +20,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/liquibase-%232962FF.svg?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![jOOQ](https://img.shields.io/badge/jOOQ-000000.svg?style=for-the-badge&logo=jooq&logoColor=white)
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
